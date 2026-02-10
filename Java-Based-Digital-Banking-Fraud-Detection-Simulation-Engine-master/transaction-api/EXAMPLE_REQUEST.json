@@ -1,0 +1,14 @@
+{
+  "transactionId": "TXN123456789",
+  "timestamp": "2024-01-15T10:30:00",
+  "currency": "USD",
+  "amount": 1500.50,
+  "senderAccount": "AC12345678",
+  "receiverAccount": "AC87654321",
+  "transactionType": "TRANSFER",
+  "channel": "MOBILE",
+  "status": "SUCCESS",
+  "ipAddress": "192.168.1.100",
+  "location": "Mumbai"
+}
+
